@@ -1,121 +1,123 @@
-<h1 align="center">Hi 👋! My name is Safa Bechchaa</h1>
-<h3 align="center">A Software Engineer & Digitalization Specialist passionate about creating impactful solutions.</h3>
+# <div align="center">✨ Welcome to My Digital Space ✨</div>
 
-<p align="center">
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=25&pause=1000&color=6A5ACD&center=true&vCenter=true&random=false&width=600&lines=Hi+%F0%9F%91%8B+I'm+Safa+Bechchaa;Software+Engineer+%26+Digitalization+Specialist;Passionate+about+creating+impactful+solutions" alt="Typing SVG" />
+</div>
+
+<div align="center">
   <a href="https://linkedin.com/in/safa-bechchaa-ba211b243" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="mailto:safabechchaasara@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  <a href="mailto:safabechchaasara@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
   <a href="https://github.com/sosth" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+    <img src="https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
+</div>
+
+<br/>
+
+## 🚀 About Me
+
+<img align="right" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="200"/>
+
+I'm a dedicated **Software Engineer** and **Digitalization Specialist** with a passion for building scalable, efficient, and user-friendly applications. I thrive on both frontend and backend development to create seamless digital experiences.
+
+- 🔭 Currently exploring **AI, Cloud Computing, and Automation**
+- 🌱 Learning more about **Machine Learning** and **Data Science**
+- 💬 Ask me about **JavaScript**, **React**, or **Node.js**
+- 📫 Reach me at: [safabechchaasara@gmail.com](mailto:safabechchaasara@gmail.com)
+- ⚡ Fun fact: I love turning coffee into code! ☕️
+
+<br/>
+
+## 🛠️ Tech Stack
+
+<details open>
+<summary><b>🔤 Programming Languages</b></summary>
+<br/>
+<p align="center">
+  <a href="#"><img src="https://skillicons.dev/icons?i=js,python,html,css,java,cpp,php" /></a>
 </p>
+</details>
 
----
+<details open>
+<summary><b>📚 Frameworks & Libraries</b></summary>
+<br/>
+<p align="center">
+  <a href="#"><img src="https://skillicons.dev/icons?i=react,nodejs,angular,vue,django,flask,nestjs" /></a>
+</p>
+</details>
 
-### 🚀 About Me
+<details open>
+<summary><b>🗄️ Databases</b></summary>
+<br/>
+<p align="center">
+  <a href="#"><img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,sqlite" /></a>
+</p>
+</details>
 
-I am a dedicated **Software Engineer** and **Digitalization Specialist** with a passion for building scalable, efficient, and user-friendly applications. I enjoy working on both frontend and backend technologies to create seamless digital experiences.
+<details open>
+<summary><b>🔧 Tools & Platforms</b></summary>
+<br/>
+<p align="center">
+  <a href="#"><img src="https://skillicons.dev/icons?i=git,docker,aws,kubernetes,linux,jenkins" /></a>
+</p>
+</details>
 
-- 🔭 Currently exploring **AI, Cloud Computing, and Automation**.
-- 🌱 Learning more about **Machine Learning** and **Data Science**.
-- 💬 Ask me about anything related to **JavaScript**, **React**, or **Node.js**.
-- 📫 How to reach me: [Email](mailto:safabechchaasara@gmail.com) | [LinkedIn](https://linkedin.com/in/safa-bechchaa-ba211b243)
+<details open>
+<summary><b>☁️ Cloud Services</b></summary>
+<br/>
+<p align="center">
+  <a href="#"><img src="https://skillicons.dev/icons?i=aws,gcp,azure" /></a>
+</p>
+</details>
 
----
+<br/>
 
-### 🛠️ Skills
+## 📊 GitHub Stats
 
-#### Programming Languages:
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo" />
+  <img src="https://github-profile-trophy.vercel.app/?username=sosth&theme=algolia&no-frame=true&no-bg=true&row=1&column=7" width="100%" alt="Trophy" />
 </div>
 
-#### Frameworks & Libraries:
+<br/>
+
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="40" alt="angularjs logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="40" alt="vuejs logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain-wordmark.svg" height="40" alt="django logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original-wordmark.svg" height="40" alt="flask logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg" height="40" alt="nestjs logo" />
+  <img src="https://github-readme-stats.vercel.app/api?username=sosth&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="49%" alt="Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sosth&theme=tokyonight&hide_border=true" width="49%" alt="Streak" />
 </div>
 
-#### Databases:
+<br/>
+
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original-wordmark.svg" height="40" alt="sqlite logo" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sosth&theme=tokyo-night&hide_border=true" width="98%" alt="Activity Graph" />
 </div>
 
-#### Tools & Platforms:
+## 💭 Random Dev Quote
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" height="40" alt="aws logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain-wordmark.svg" height="40" alt="kubernetes logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" height="40" alt="jenkins logo" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" width="98%" alt="Dev Quote"/>
 </div>
 
-#### DevOps & CI/CD:
+<br/>
+
+## 🤝 Let's Connect!
+
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" height="40" alt="jenkins logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original-wordmark.svg" height="40" alt="gitlab logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bitbucket/bitbucket-original-wordmark.svg" height="40" alt="bitbucket logo" />
+  <p>I'm always excited to collaborate on interesting projects and discuss new technologies!</p>
+  <p>
+    <a href="https://linkedin.com/in/safa-bechchaa-ba211b243">
+      <img src="https://img.shields.io/badge/-Let's_Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    </a>
+  </p>
 </div>
 
-#### Cloud Services:
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" height="40" alt="aws logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="40" alt="google cloud logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftazure/microsoftazure-original.svg" height="40" alt="azure logo" />
-</div>
-
-#### Other Technologies:
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain-wordmark.svg" height="40" alt="graphql logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/restapi/restapi-plain-wordmark.svg" height="40" alt="rest api logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo" />
-</div>
-
----
-
-### 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sosth&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=midnight-purple&locale=en&hide_border=false" height="150" alt="stats graph" />
-  <img src="https://streak-stats.demolab.com?user=sosth&locale=en&mode=daily&theme=midnight-purple&hide_border=false&border_radius=5" height="150" alt="streak graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sosth&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=midnight-purple&hide_border=false" height="150" alt="languages graph" />
+  <img src="https://komarev.com/ghpvc/?username=sosth&color=blueviolet&style=for-the-badge" alt="Profile Views"/>
 </div>
 
 ---
-
-### ✍️ Random Dev Quote
-
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
----
-
-### 🔝 Top Contributed Repo
-
-![](https://github-contributor-stats.vercel.app/api?username=sosth&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
-
-
----
-
-### 🙌 Connect with Me
-
-Feel free to connect with me on any of my social media platforms or drop me an email. I'm always open to collaborations, discussions, or just casual chats about technology!
+<div align="center">
+  <i>Happy Coding! 🚀</i>
+</div>
