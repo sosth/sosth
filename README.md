@@ -22,7 +22,7 @@
 
 <img align="right" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="200"/>
 
-I'm a dedicated **Software Engineer** and **Digitalization Specialist** with a passion for building scalable, efficient, and user-friendly applications. I thrive on both frontend and backend development to create seamless digital experiences.
+I'm a dedicated **Software Engineer** with a passion for building scalable, efficient, and user-friendly applications. I thrive on both frontend and backend development to create seamless digital experiences.
 
 - 🔭 Currently exploring **AI, Cloud Computing, and Automation**
 - 🌱 Learning more about **Machine Learning** and **Data Science**
