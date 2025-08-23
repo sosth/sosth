@@ -76,31 +76,7 @@ I'm a dedicated **Software Engineer** with a passion for building scalable, effi
 
 <br/>
 
-## 📊 GitHub Stats
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=sosth&theme=algolia&no-frame=true&no-bg=true&row=1&column=7" width="100%" alt="Trophy" />
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sosth&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="49%" alt="Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sosth&theme=tokyonight&hide_border=true" width="49%" alt="Streak" />
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sosth&theme=tokyo-night&hide_border=true" width="98%" alt="Activity Graph" />
-</div>
-
-## 💭 Random Dev Quote
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" width="98%" alt="Dev Quote"/>
-</div>
-
-<br/>
 
 ## 🤝 Let's Connect!
 
